@@ -1,0 +1,10 @@
+Outlook,temperature,humidity,wind,Y
+sunny,hot,mild,strong,yes
+moderate,normal,mild,strong,yes
+rainy,normal,mild,strong,no
+sunny,normal,mild,storng,yes
+sunny,high,normal,strong,no
+sunny,high,mild,weak,yes
+moderate,low,mild,strong,no
+rainy,high,normal,strong,no
+sunny,low,mild,weak,yes
